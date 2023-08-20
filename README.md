@@ -1,5 +1,7 @@
 # Creative Design Project
 
+_preview_![creative design](https://github.com/Shubh-6657/Creative_Design/assets/108170423/d235b8a6-f312-48b9-9d58-dc2a499cb29e)
+
 Welcome to my Creative Design project repository! This project serves as a showcase of my skills in HTML, CSS, and JavaScript. The goal of this project is to demonstrate my proficiency in web development and design while creating an engaging and visually appealing user experience.
 
 ## Project Overview
