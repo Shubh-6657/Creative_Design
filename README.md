@@ -40,7 +40,7 @@ I welcome contributions to enhance and improve the project! If you'd like to con
 2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
 3. Make your changes and commit them: `git commit -m "Description of changes"`
 4. Push your changes to your forked repository: `git push origin feature-name`
-5. Open a pull request in this repository, detailing your changes and their purpose.
+5. Open a pull request in this repository, detailing your changes and their purpose
 
 ## Contact
 
